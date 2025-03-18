@@ -1,8 +1,10 @@
 # CP-Program
 
-# feat: Add README.md
+## style: Adjust README.md Format
 
-# feat: Initialize Commit
+## feat: Add README.md
+
+## feat: Initialize Commit
 
 * Operations
 
